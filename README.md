@@ -1,0 +1,1 @@
+Template using JS Vanilla, CSS and HTML
